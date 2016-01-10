@@ -1,0 +1,2 @@
+# kappybot
+Kappybot for rkappaslack
